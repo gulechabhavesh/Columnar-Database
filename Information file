@@ -1,0 +1,4 @@
+Most of the queries in a business application have a dependence on a fixed and small
+set of columns, To solve this implemented a file based columnar database which had a
+better performance to MySQL under certain defined cases which is a norm in business
+scenario
